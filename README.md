@@ -7,5 +7,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mudox&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" width=470px>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudox&hide_border=true&layout=compact&hide_title=true&langs_count=8&hide=HTML,CSS"  width=340px>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudox&hide_border=true&layout=compact&hide_title=true&langs_count=8&hide=HTML,CSS"  width=342px>
 </p>
